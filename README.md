@@ -1,1 +1,1 @@
-Aplicação para gerenciamento de ocorrência de funcionários
+APlicação simples para gerenciamento de ocorrencias funcionarios da empresa
